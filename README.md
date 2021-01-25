@@ -377,3 +377,6 @@ Immersion Wiki - resources for immersion: http://immersion.wiki/
 Why You Still Don't Understand Your Target Language: https://youtu.be/_LIz-Wbt4us
 Dogen Japanese Phonetics: http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P
 Useful Anki add-ons for Japanese: https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html
+
+-
+Mpv Sentence Mining Setup Guide: https://docs.google.com/document/d/1DR21nSG3prcxHe3kHlkvCscRoN-av3uYVc5rBIDTLWI/edit
