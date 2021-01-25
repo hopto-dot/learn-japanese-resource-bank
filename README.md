@@ -1,6 +1,6 @@
-# learn-japanese-resource-bank
+## learn-japanese-resource-bank
 
-# Kana:
+## Kana:
 
 Kakugo Android App: https://play.google.com/store/apps/details?id=org.kaqui
 
@@ -8,28 +8,28 @@ DJT Kana (enable all kana in show/hide): https://djtguide.neocities.org/kana/ind
 
 Kana Anki Deck: https://ankiweb.net/shared/info/66384999
 
-Remembering the Kana: https://mega.nz/folder/Wk8VjJ6K#icqt2OiW4Vhle7q4cGUf_Q
+Remembering the Kana: https://mega.nz/folder/Wk8VjJ6K##icqt2OiW4Vhle7q4cGUf_Q
 
 Tae Kim - The Writing System: http://www.guidetojapanese.org/learn/grammar/writing
 ****
-# Kanji:
+## Kanji:
 
 Note: Reading a lot is the best way to learn kanji. You can seek alternatives below if you keep forgetting how to read words you come across. Or if you want to learn how to write
 
-Remembering The Kanji (RTK): https://mega.nz/folder/SkUABA5Q#4DT43HxP5vZi1pVq44_TVQ
+Remembering The Kanji (RTK): https://mega.nz/folder/SkUABA5Q##4DT43HxP5vZi1pVq44_TVQ
 
 (Uses RTK) Learn the Kanji: https://www.learnkanji.guide/
 
 Recognition Remembering The Kanji (RRTK): https://massimmersionapproach.com/table-of-contents/stage-1/practice/recognition-rtk/%3E
 
-Kodansha's Kanji Learner's Course (KKLC): https://mega.nz/#!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ
+Kodansha's Kanji Learner's Course (KKLC): https://mega.nz/##!ncYFXTyJ!KXwmhJu4QogtPasf0wt_zxyGvIfnm4gXxKsmdIv51sQ
 
 (Uses KKLC) Studying with KLC: https://keystojapanese.com/how-to-study-with-the-klc/
 
 KanjiDamage: http://www.kanjidamage.com/
 
 ****
-# Vocabulary:
+## Vocabulary:
 
 MIA Tango N5 Deck: https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing
 
@@ -37,10 +37,10 @@ MIA Tango N4 Deck: https://drive.google.com/file/d/1z2gWk3SH6QzyfUU01iE7wd-RElfj
 
 It is recommended you do Tango over Core solely because Tango is easier.
 
-Core2.3K VN Order Deck: https://mega.nz/file/21kV2IyT#hrHlRSx_f7DJ9q6xj52hIWtcJ62dMhPG6MlWNwm34ak
+Core2.3K VN Order Deck: https://mega.nz/file/21kV2IyT##hrHlRSx_f7DJ9q6xj52hIWtcJ62dMhPG6MlWNwm34ak
 
 ****
-# Grammar:
+## Grammar:
 
 Cure Dolly’s Organic Japanese: https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj
 
@@ -48,19 +48,19 @@ Tae Kim’s Guide to Japanese, a guide for grammar: https://itazuraneko.neocitie
 
 Dictionary of Grammar (DoJG) Reference: https://core6000.neocities.org/dojg/
 
-"Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin: https://mega.nz/#!TpESFQoD!vfTQgn_kBXSE_vBeieTe5wvlzL07qbzVkWx1PYfpMFQ
+"Making Sense of Japanese - What The Textbooks Don't Tell You" by Jay Rubin: https://mega.nz/##!TpESFQoD!vfTQgn_kBXSE_vBeieTe5wvlzL07qbzVkWx1PYfpMFQ
 
 When watching Cure Dolly, turn on subtitles and put the speed on 1.25x or 1.5x. Reasons should be obvious
 Mention of other grammar guides have been removed so as to not create confusion for new learners
 
 ****
-# Anime:
+## Anime:
 
 Nyaa.si - raw anime (torrent client required, recommended: qBittorrent): https://nyaa.si/?q=&f=0&c=1_4
 
 B9GOOD - watch raw anime: http://b9good.com/
 
-Anime-Raws - raw anime (Stream or Download): https://sites.google.com/view/animerawsmasterlist/home#
+Anime-Raws - raw anime (Stream or Download): https://sites.google.com/view/animerawsmasterlist/home##
 
 Itazuraneko Anime Library: https://itazuraneko.neocities.org/library/satuei/anime.html
 
@@ -71,7 +71,7 @@ AnJSub - watch anime with Japanese subtitles (with an AdBlocker, use uBlock Orig
 Crunchyroll - watch anime, (free but with ads): https://www.crunchyroll.com/
 
 ****
-# J-Drama & TV Shows:
+## J-Drama & TV Shows:
 
 Google Drive folder full of J-Drama - (password for .zip/.rar archives: bagikuy): https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE
 
@@ -93,16 +93,16 @@ Raredoramas: https://raredoramas.info/
 
 Japanese Live TV Streams: http://japanorama39.ru/bez-rubriki/smotret-onlayn-7-yaponskih-telekanalov-na-1-sayte/
 
-Terrace House BGND: https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/#more-177
+Terrace House BGND: https://tecchanhouse.wordpress.com/2018/05/15/terrible-houses-annex/##more-177
 
 ABEMA: https://abema.tv/
 
-Some Japanese TV Shows on BiliBili: https://space.bilibili.com/60958832/#/video?tid=0&page=1&keyword=&order=pubdate
+Some Japanese TV Shows on BiliBili: https://space.bilibili.com/60958832/##/video?tid=0&page=1&keyword=&order=pubdate
 
 Crunchyroll (free with ads): https://www.crunchyroll.com/
 
 ****
-# Manga:
+## Manga:
 
 Itazuraneko Manga Library: https://itazuraneko.neocities.org/library/manga.html
 
@@ -150,7 +150,7 @@ Manga314: https://manga314.com/
 CMCZIP: https://cmczip.com/
 
 ****
-# Light Novels and Literary Texts
+## Light Novels and Literary Texts
 
 Itazuraneko Old Novel Library: https://itazuraneko.neocities.org/shousetu/index.html
 
@@ -165,7 +165,7 @@ Syosetsu Web Novels: https://yomou.syosetu.com/
 Aozora Bunko: https://www.aozora.gr.jp/
 
 ****
-# Visual Novels & Games:
+## Visual Novels & Games:
 
 Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive: https://itazuraneko.neocities.org/library/game.html
 
@@ -196,7 +196,7 @@ RyuuBlogger: https://ryuubloggerv2.blogspot.com/
 
 Anime-sharing: http://www.anime-sharing.com/forum/ ← Has the most
 
-CraneAnime Upload List: https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml#
+CraneAnime Upload List: https://docs.google.com/spreadsheets/d/1ECqqhEm2kDS0hgxZ0tD_73e04v5FUxQGkfCbfi0Kb9k/pubhtml##
 
 Sukebei Nyaa.si: https://sukebei.nyaa.si/
 
@@ -207,13 +207,13 @@ Jamal's list: https://anacreondjt.gitlab.io/vn-chart/
 
 Hook VNs with Textractor!
 
-Setup: #visual-novel-guide
+Setup: ##visual-novel-guide
 ****
 
-# Audiobooks
+## Audiobooks
 Itazuraneko Audiobook Library: https://itazuraneko.neocities.org/library/onsei.html
-Audiobook Collection #1: https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28
-Audiobook Collection #2: https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a
+Audiobook Collection ##1: https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28
+Audiobook Collection ##2: https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a
 Subtitles
 Kitsunekko Japanese subtitles for anime: http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F
 Itazuraneko Japanese subtitles: https://itazuraneko.neocities.org/library/sub.html
@@ -235,7 +235,7 @@ Tutorial: https://learnjapanese.moe/yomichan
 shoui Yomichan Dictionaries Pack v3: https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing
 
 ****
-# Online:
+## Online:
 Jisho (bilingual): https://jisho.org/ <---- Beginners use this
 
 Weblio EJJE (bilingual): https://ejje.weblio.jp/ <---- Beginners use this
@@ -274,7 +274,7 @@ shoui EPWINGs Pack (Full Edition) - for those that want it all: https://drive.go
 See Applications section for an EPWING reader.
 
 ****
-# E-Reader Dictionaries
+## E-Reader Dictionaries
 Kindle Dictionaries Pack: https://drive.google.com/drive/folders/1jCrT99ymPHx2i2BbMRJERHgbTZ_Iv5Q3?usp=sharing
 Applications (Desktop)
 Anki (Windows, Mac and Linux): https://apps.ankiweb.net/
@@ -330,7 +330,7 @@ youtube-dl - download YouTube videos, playlists, channels, etc.:https://ytdl-org
 youtube-dlg - GUI for youtube-dl: https://mrs0m30n3.github.io/youtube-dl-gui/
 Hakuneko Manga Downloader: https://github.com/manga-download/hakuneko
 Private Trackers
-Info: https://en.wikipedia.org/wiki/BitTorrent_tracker#Private_trackers
+Info: https://en.wikipedia.org/wiki/BitTorrent_tracker##Private_trackers
 You can find hard to find things on private trackers.
 AvistaZ, for J-drama and such (I have 0 invites) 
 AnimeBytes, for anime, manga, VNs and such (ONLY close friends shall be invited)
@@ -355,8 +355,8 @@ You can search for “ExpressVPN crack apk” if you’re an Android user lmao.
 Condensed Audio
 Condensed Audio 1: https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8
 Condensed Audio 2: https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio
-Condensed Audio 3: https://mega.nz/#F!AKwUTQQZ!MyrhiMmNmhemOGrR40bkow
-Condensed Audio 4: https://condensedaudiocatalog.com/#
+Condensed Audio 3: https://mega.nz/##F!AKwUTQQZ!MyrhiMmNmhemOGrR40bkow
+Condensed Audio 4: https://condensedaudiocatalog.com/##
 Condensed Audio 5: https://www.paliss.com/
 Condense your own audio: https://ercanserteli.com/condenser/
 Mining
