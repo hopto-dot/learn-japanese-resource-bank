@@ -40,7 +40,7 @@ It is recommended you do Tango over Core solely because Tango is easier.
 Core2.3K VN Order Deck: https://mega.nz/file/21kV2IyT#hrHlRSx_f7DJ9q6xj52hIWtcJ62dMhPG6MlWNwm34ak
 
 ****
-Grammar:
+# Grammar:
 
 Cure Dolly’s Organic Japanese: https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj
 
