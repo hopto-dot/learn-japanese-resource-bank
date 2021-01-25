@@ -1,4 +1,4 @@
-## learn-japanese-resource-bank
+# learn-japanese-resource-bank
 
 ## Kana:
 
