@@ -1,6 +1,7 @@
 # learn-japanese-resource-bank
 
-Kana:
+# Kana:
+
 Kakugo Android App: https://play.google.com/store/apps/details?id=org.kaqui
 
 DJT Kana (enable all kana in show/hide): https://djtguide.neocities.org/kana/index.html
@@ -11,7 +12,7 @@ Remembering the Kana: https://mega.nz/folder/Wk8VjJ6K#icqt2OiW4Vhle7q4cGUf_Q
 
 Tae Kim - The Writing System: http://www.guidetojapanese.org/learn/grammar/writing
 ****
-Kanji:
+# Kanji:
 
 Note: Reading a lot is the best way to learn kanji. You can seek alternatives below if you keep forgetting how to read words you come across. Or if you want to learn how to write
 
@@ -28,7 +29,7 @@ Kodansha's Kanji Learner's Course (KKLC): https://mega.nz/#!ncYFXTyJ!KXwmhJu4Qog
 KanjiDamage: http://www.kanjidamage.com/
 
 ****
-Vocabulary:
+# Vocabulary:
 
 MIA Tango N5 Deck: https://drive.google.com/file/d/1ZuRH5lJUSF2l_nuZYdLHl_zFNTgh6Ium/view?usp=sharing
 
@@ -53,7 +54,7 @@ When watching Cure Dolly, turn on subtitles and put the speed on 1.25x or 1.5x. 
 Mention of other grammar guides have been removed so as to not create confusion for new learners
 
 ****
-Anime:
+# Anime:
 
 Nyaa.si - raw anime (torrent client required, recommended: qBittorrent): https://nyaa.si/?q=&f=0&c=1_4
 
@@ -70,7 +71,7 @@ AnJSub - watch anime with Japanese subtitles (with an AdBlocker, use uBlock Orig
 Crunchyroll - watch anime, (free but with ads): https://www.crunchyroll.com/
 
 ****
-J-Drama & TV Shows:
+# J-Drama & TV Shows:
 
 Google Drive folder full of J-Drama - (password for .zip/.rar archives: bagikuy): https://drive.google.com/drive/folders/0B4SicD-zZ_Z1SWtNWjlfMmJtRFE
 
@@ -101,7 +102,7 @@ Some Japanese TV Shows on BiliBili: https://space.bilibili.com/60958832/#/video?
 Crunchyroll (free with ads): https://www.crunchyroll.com/
 
 ****
-Manga:
+# Manga:
 
 Itazuraneko Manga Library: https://itazuraneko.neocities.org/library/manga.html
 
@@ -135,7 +136,6 @@ S-manga: https://www.s-manga.net/
 
 Sai-zen-sen: https://sai-zen-sen.jp/
 
-***
 Scan websites usually have the best collection but can be a pain to download from, I have listed them below.
 Use maxi-debrid.com to generate premium full speed download links!
 
@@ -150,7 +150,7 @@ Manga314: https://manga314.com/
 CMCZIP: https://cmczip.com/
 
 ****
-Light Novels and Literary Texts
+# Light Novels and Literary Texts
 
 Itazuraneko Old Novel Library: https://itazuraneko.neocities.org/shousetu/index.html
 
@@ -165,7 +165,7 @@ Syosetsu Web Novels: https://yomou.syosetu.com/
 Aozora Bunko: https://www.aozora.gr.jp/
 
 ****
-Visual Novels & Games:
+# Visual Novels & Games:
 
 Itazuraneko Retro Game (PS2, PSP, NDS etc.) Archive: https://itazuraneko.neocities.org/library/game.html
 
@@ -206,8 +206,11 @@ Starter Japanese VNs and games: https://docs.google.com/document/u/1/d/1KnyyDt7j
 Jamal's list: https://anacreondjt.gitlab.io/vn-chart/
 
 Hook VNs with Textractor!
+
 Setup: #visual-novel-guide
-Audiobooks
+****
+
+# Audiobooks
 Itazuraneko Audiobook Library: https://itazuraneko.neocities.org/library/onsei.html
 Audiobook Collection #1: https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28
 Audiobook Collection #2: https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a
@@ -219,44 +222,59 @@ BritVSJapan Repo: https://github.com/Matchoo95/JP-Subtitles
 Nekomoe Kissaten: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs
 動漫花園: https://share.dmhy.org/
 Fully Automatic Retiming of Subtitles: https://youtu.be/x0h3ooBHrpk
-Sentence Search
 Yourei.jp, The World's Largest Japanese Sentence Search Engine: http://yourei.jp/
 Kotonoha Corpus: http://nlb.ninjal.ac.jp/search/
 BritVSJapan Repo: https://github.com/Matchoo95/JP-Subtitles (Use the Repository search feature)
 SentenceSearch: https://sentencesearch.neocities.org/
 Jisho.org: https://jisho.org/search/%20%23sentences
 ｺﾂ: https://kotu.kez.io/
-Dictionaries
-Yomichan
+
 Yomichan, a browser add-on that allows you to look up Japanese words easily.
 Yomichan (Chromium and Firefox based browsers only): https://foosoft.net/projects/yomichan/
 Tutorial: https://learnjapanese.moe/yomichan
 shoui Yomichan Dictionaries Pack v3: https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing
 
-Online
+****
+# Online:
 Jisho (bilingual): https://jisho.org/ <---- Beginners use this
+
 Weblio EJJE (bilingual): https://ejje.weblio.jp/ <---- Beginners use this
+
 Eijirou on the WEB (bilingual): https://eow.alc.co.jp/ <---- Beginners use this
+
 Sakura-Paris Free Kōjien Search (Has every major dictionary, monolingual+bilingual): https://sakura-paris.org/dict/
+
 Weblio (monolingual): https://www.weblio.jp/
+
 Goo (monolingual): https://dictionary.goo.ne.jp/
+
 日本語俗語辞書 (monolingual slang dict): http://zokugo-dict.com/
+
 Forvo Japanese Pronunciation Dictionary: https://forvo.com/languages/ja/
+
 OJAD Pitch Accent Dictionary: http://www.gavo.t.u-tokyo.ac.jp/ojad/search
+
 See Applications (Mobile) section for mobile apps.
 
 MDict (MDX)
+
 Contains the most up-to-date dictionaries
+
 shoui MDX Collection (Japanese): https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing
+
 MDict Reader Download: https://www.mdict.cn/wp/?page_id=5325&lang=en
 
 EPWING
 shoui EPWINGs Pack (Compact Edition) - best for mobile users: https://drive.google.com/file/d/15n-l-IxZLtF0tjnIBexizR1fm5TATBks/view?usp=sharing
+
 shoui EPWINGs Pack (Standard Edition) - best for computer users: https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing
+
 shoui EPWINGs Pack (Full Edition) - for those that want it all: https://drive.google.com/file/d/1V323XJvasxc2CNb2Ia1gBEeD247g6yRb/view?usp=sharing
+
 See Applications section for an EPWING reader.
 
-E-Reader Dictionaries
+****
+# E-Reader Dictionaries
 Kindle Dictionaries Pack: https://drive.google.com/drive/folders/1jCrT99ymPHx2i2BbMRJERHgbTZ_Iv5Q3?usp=sharing
 Applications (Desktop)
 Anki (Windows, Mac and Linux): https://apps.ankiweb.net/
