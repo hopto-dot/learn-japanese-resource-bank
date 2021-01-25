@@ -1,4 +1,6 @@
-# learn-japanese-resource-bank
+# Learn Japanese Resource Bank
+
+# ⚠⚠ Currently being formatted ⚠⚠
 
 ## Kana:
 
