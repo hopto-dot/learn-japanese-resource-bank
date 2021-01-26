@@ -1,7 +1,7 @@
 # Learn Japanese Resource Bank
 
 # Contents
-- [Precious <3](https://github.com/hopto-dot/learn-japanese-resource-bank#Precious)
+- [Precious Videos <3](https://github.com/hopto-dot/learn-japanese-resource-bank#Precious-Videos)
 - [Kana](https://github.com/hopto-dot/learn-japanese-resource-bank#Kana)
 - [Kanji](https://github.com/hopto-dot/learn-japanese-resource-bank#Kanji)
 - [Vocabulary](https://github.com/hopto-dot/learn-japanese-resource-bank#Vocabulary)
@@ -22,7 +22,7 @@
 - [Guides/Methods/Motivation](https://github.com/hopto-dot/learn-japanese-resource-bank#guidesmethodsmotivation)
 
 
-## Precious:
+## Precious Videos:
 It is _**extremely**_ important that you really take in what these videos are saying. If you do, they will change your life
 
 [Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug) (audio is unfortuantely messed up)
