@@ -2,7 +2,6 @@
 
 # Contents
 - [Precious Videos <3](https://github.com/hopto-dot/learn-japanese-resource-bank#Precious-Videos)
-- [Kana](https://github.com/hopto-dot/learn-japanese-resource-bank#Kana)
 - [Kanji](https://github.com/hopto-dot/learn-japanese-resource-bank#Kanji)
 - [Vocabulary](https://github.com/hopto-dot/learn-japanese-resource-bank#Vocabulary)
 - [Grammar](https://github.com/hopto-dot/learn-japanese-resource-bank#Grammar)
@@ -30,19 +29,8 @@ It is _**extremely**_ important that you really take in what these videos are sa
 [Change your language learning mindset](https://www.youtube.com/watch?v=3Kzjn7kCAtU)
 
 [MattVsJapan & Stephen Krashen: How Do We Acquire Language?](https://youtu.be/_VYfpL6lcjE)
-
-## Kana:
-
-Kakugo Android App: https://play.google.com/store/apps/details?id=org.kaqui
-
-DJT Kana (enable all kana in show/hide): https://djtguide.neocities.org/kana/index.html
-
-Kana Anki Deck: https://ankiweb.net/shared/info/66384999
-
-Remembering the Kana: https://mega.nz/folder/Wk8VjJ6K##icqt2OiW4Vhle7q4cGUf_Q
-
-Tae Kim - The Writing System: http://www.guidetojapanese.org/learn/grammar/writing
 ****
+
 ## Kanji:
 
 Note: Reading a lot is the best way to learn kanji. You can seek alternatives below if you keep forgetting how to read words you come across. Or if you want to learn how to write
