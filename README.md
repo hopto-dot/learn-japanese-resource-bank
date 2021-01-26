@@ -1,8 +1,6 @@
 # Learn Japanese Resource Bank
 
-# ⚠⚠ Currently being formatted ⚠⚠
-
-Contents
+# Contents
 - [Precious <3](https://github.com/hopto-dot/learn-japanese-resource-bank#Precious)
 - [Kana](https://github.com/hopto-dot/learn-japanese-resource-bank#Kana)
 - [Kanji](https://github.com/hopto-dot/learn-japanese-resource-bank#Kanji)
