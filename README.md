@@ -294,9 +294,7 @@ Capture2Text (Windows): http://capture2text.sourceforge.net/
 
 Gazou OCR (Linux): https://github.com/kamui-7/Gazou-OCR
 
-mpv - a free, open source, and cross-platform media player: https://mpv.io/ ([guide](https://docs.google.com/document/d/1DR21nSG3prcxHe3kHlkvCscRoN-av3uYVc5rBIDTLWI/edit))
-
-※ mpv: The Best Video Player for Language Learning: https://youtu.be/bbg6ztWecbU
+mpv - a free, open source, and cross-platform media player: https://mpv.io/ ([guide1](https://youtu.be/bbg6ztWecbU) [guide2](https://docs.google.com/document/d/1DR21nSG3prcxHe3kHlkvCscRoN-av3uYVc5rBIDTLWI/edit))
 
 CDisplayEx - most popular comic reader: https://www.cdisplayex.com/
 ****
@@ -335,11 +333,17 @@ Neko VPN (iOS): https://learnjapanese.link/vpnneko
 
 ## Condensed Audio:
 Condensed Audio 1: https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8
+
 Condensed Audio 2: https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio
+
 Condensed Audio 3: https://mega.nz/##F!AKwUTQQZ!MyrhiMmNmhemOGrR40bkow
+
 Condensed Audio 4: https://condensedaudiocatalog.com/##
+
 Condensed Audio 5: https://www.paliss.com/
+
 Condense your own audio: https://ercanserteli.com/condenser/
+
 
 ## Guides/Methods/Motivation:
 
