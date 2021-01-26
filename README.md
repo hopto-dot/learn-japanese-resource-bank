@@ -2,6 +2,37 @@
 
 # ⚠⚠ Currently being formatted ⚠⚠
 
+Contents
+- [Precious <3](https://github.com/hopto-dot/learn-japanese-resource-bank#Precious)
+- [Kana](https://github.com/hopto-dot/learn-japanese-resource-bank#Kana)
+- [Kanji](https://github.com/hopto-dot/learn-japanese-resource-bank#Kanji)
+- [Vocabulary](https://github.com/hopto-dot/learn-japanese-resource-bank#Vocabulary)
+- [Grammar](https://github.com/hopto-dot/learn-japanese-resource-bank#Grammar)
+- [Anime](https://github.com/hopto-dot/learn-japanese-resource-bank#Anime)
+- [JDrama & TV Shows](https://github.com/hopto-dot/learn-japanese-resource-bank#j-drama--tv-shows)
+- [Manga](https://github.com/hopto-dot/learn-japanese-resource-bank#Manga)
+- [Light Novels & Literary Texts](https://github.com/hopto-dot/learn-japanese-resource-bank#light-novels-and-literary-texts)
+- [Visual Novels & Games](https://github.com/hopto-dot/learn-japanese-resource-bank#visual-novels--games)
+- [Audiobooks](https://github.com/hopto-dot/learn-japanese-resource-bank#Audiobooks)
+- [Subtitles](https://github.com/hopto-dot/learn-japanese-resource-bank#Subtitles)
+- [Online](https://github.com/hopto-dot/learn-japanese-resource-bank#Online)
+- [Dictionaries](https://github.com/hopto-dot/learn-japanese-resource-bank#Dictionaries)
+- [Applications (desktop)](https://github.com/hopto-dot/learn-japanese-resource-bank#applications-desktop)
+- [Dowloading Tools](https://github.com/hopto-dot/learn-japanese-resource-bank#downloading-tools)
+- [Free VPNs](https://github.com/hopto-dot/learn-japanese-resource-bank#free-vpns-japan-location-specific)
+- [Condensed Audio](https://github.com/hopto-dot/learn-japanese-resource-bank#condensed-audio)
+- [Guides/Methods/Motivation](https://github.com/hopto-dot/learn-japanese-resource-bank#guidesmethodsmotivation)
+
+
+## Precious:
+It is _**extremely**_ important that you really take in what these videos are saying. If you do, they will change your life
+
+[Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)
+
+[Change your language learning mindset](https://www.youtube.com/watch?v=3Kzjn7kCAtU)
+
+[MattVsJapan & Stephen Krashen: How Do We Acquire Language?](https://youtu.be/_VYfpL6lcjE)
+
 ## Kana:
 
 Kakugo Android App: https://play.google.com/store/apps/details?id=org.kaqui
