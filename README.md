@@ -152,7 +152,7 @@ Manga314: https://manga314.com/
 CMCZIP: https://cmczip.com/
 
 ****
-## Light Novels and Literary Texts
+## Light Novels and Literary Texts:
 
 Itazuraneko Old Novel Library: https://itazuraneko.neocities.org/shousetu/index.html
 
@@ -212,31 +212,33 @@ Hook VNs with Textractor!
 Setup: ##visual-novel-guide
 ****
 
-## Audiobooks
+## Audiobooks:
 Itazuraneko Audiobook Library: https://itazuraneko.neocities.org/library/onsei.html
+
 Audiobook Collection ##1: https://onedrive.live.com/?authkey=%21ACiYIpTlxCBAtvU&id=12E15D07EB9B7E28%212087&cid=12E15D07EB9B7E28
+
 Audiobook Collection ##2: https://drive.google.com/drive/folders/16YDpNeO1FPNl_VK0845o6U6kAUbuFwS_?sort=13&direction=a
-Subtitles
-Kitsunekko Japanese subtitles for anime: http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F
-Itazuraneko Japanese subtitles: https://itazuraneko.neocities.org/library/sub.html
-JP-Subbers drama subtitles: http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/
-BritVSJapan Repo: https://github.com/Matchoo95/JP-Subtitles
-Nekomoe Kissaten: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs
-動漫花園: https://share.dmhy.org/
-Fully Automatic Retiming of Subtitles: https://youtu.be/x0h3ooBHrpk
-Yourei.jp, The World's Largest Japanese Sentence Search Engine: http://yourei.jp/
-Kotonoha Corpus: http://nlb.ninjal.ac.jp/search/
-BritVSJapan Repo: https://github.com/Matchoo95/JP-Subtitles (Use the Repository search feature)
-SentenceSearch: https://sentencesearch.neocities.org/
-Jisho.org: https://jisho.org/search/%20%23sentences
-ｺﾂ: https://kotu.kez.io/
-
-Yomichan, a browser add-on that allows you to look up Japanese words easily.
-Yomichan (Chromium and Firefox based browsers only): https://foosoft.net/projects/yomichan/
-Tutorial: https://learnjapanese.moe/yomichan
-shoui Yomichan Dictionaries Pack v3: https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing
-
 ****
+
+## Subtitles:
+
+Kitsunekko Japanese subtitles for anime: http://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F
+
+Itazuraneko Japanese subtitles: https://itazuraneko.neocities.org/library/sub.html
+
+JP-Subbers drama subtitles: http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/
+
+BritVSJapan Repo: https://github.com/Matchoo95/JP-Subtitles
+
+Nekomoe Kissaten: https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs
+
+動漫花園: https://share.dmhy.org/
+
+Fully Automatic Retiming of Subtitles: https://youtu.be/x0h3ooBHrpk
+
+BritVSJapan Repo: https://github.com/Matchoo95/JP-Subtitles (Use the Repository search feature)
+****
+
 ## Online:
 Jisho (bilingual): https://jisho.org/ <---- Beginners use this
 
@@ -245,6 +247,10 @@ Weblio EJJE (bilingual): https://ejje.weblio.jp/ <---- Beginners use this
 Eijirou on the WEB (bilingual): https://eow.alc.co.jp/ <---- Beginners use this
 
 Sakura-Paris Free Kōjien Search (Has every major dictionary, monolingual+bilingual): https://sakura-paris.org/dict/
+
+Kotonoha Corpus: http://nlb.ninjal.ac.jp/search/
+
+SentenceSearch: https://sentencesearch.neocities.org/
 
 Weblio (monolingual): https://www.weblio.jp/
 
@@ -255,130 +261,111 @@ Goo (monolingual): https://dictionary.goo.ne.jp/
 Forvo Japanese Pronunciation Dictionary: https://forvo.com/languages/ja/
 
 OJAD Pitch Accent Dictionary: http://www.gavo.t.u-tokyo.ac.jp/ojad/search
+****
 
-See Applications (Mobile) section for mobile apps.
-
-MDict (MDX)
-
-Contains the most up-to-date dictionaries
+## Dictionaries:
 
 shoui MDX Collection (Japanese): https://drive.google.com/file/d/1UMvC1eMZmFAtEHKO6yo3ZFB7CJsKr_3w/view?usp=sharing
 
 MDict Reader Download: https://www.mdict.cn/wp/?page_id=5325&lang=en
 
-EPWING
 shoui EPWINGs Pack (Compact Edition) - best for mobile users: https://drive.google.com/file/d/15n-l-IxZLtF0tjnIBexizR1fm5TATBks/view?usp=sharing
 
 shoui EPWINGs Pack (Standard Edition) - best for computer users: https://drive.google.com/file/d/1kbR0CxM1GsOV-umbn-KtxkGHLo9xba6G/view?usp=sharing
 
 shoui EPWINGs Pack (Full Edition) - for those that want it all: https://drive.google.com/file/d/1V323XJvasxc2CNb2Ia1gBEeD247g6yRb/view?usp=sharing
 
-See Applications section for an EPWING reader.
-
+shoui Yomichan Dictionaries Pack v3: https://drive.google.com/file/d/1hcxKK-06LJxp-pr-8EuSPrCaFhWwXylp/view?usp=sharing
 ****
-## E-Reader Dictionaries
-Kindle Dictionaries Pack: https://drive.google.com/drive/folders/1jCrT99ymPHx2i2BbMRJERHgbTZ_Iv5Q3?usp=sharing
-Applications (Desktop)
+
+## Applications (Desktop):
+
 Anki (Windows, Mac and Linux): https://apps.ankiweb.net/
-If you’re gonna use Anki, then Read The F*cking Manual, it will make your life easier. https://apps.ankiweb.net/docs/manual.html
+
 EB - An EPWING Reader (Windows, Mac): http://ebstudio.info/
-Qolibri, an EPWING reader, (for Linux) I KNOW IT HAS A WINDOWS VERSION TOO!!!!: https://github.com/ludios/qolibri
-Textractor: https://github.com/Artikash/Textractor/releases
+
+Qolibri - an EPWING reader (for Linux and Windows): https://github.com/ludios/qolibri
+
+Textractor - a visual novel text extractor: https://github.com/Artikash/Textractor/releases
+
 KanjiTomo OCR for Manga/LN Scans: http://www.kanjitomo.net/
+
 Capture2Text (Windows): http://capture2text.sourceforge.net/
+
 Gazou OCR (Linux): https://github.com/kamui-7/Gazou-OCR
-mpv - a free, open source, and cross-platform media player: https://mpv.io/
+
+mpv - a free, open source, and cross-platform media player: https://mpv.io/ ([guide](https://docs.google.com/document/d/1DR21nSG3prcxHe3kHlkvCscRoN-av3uYVc5rBIDTLWI/edit))
+
 ※ mpv: The Best Video Player for Language Learning: https://youtu.be/bbg6ztWecbU
+
 CDisplayEx - most popular comic reader: https://www.cdisplayex.com/
-foobar2000 - advanced freeware audio player: https://www.foobar2000.org/
-Applications (Mobile)
-Android
-AnkiDroid: https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en
-Takoboto (Bilingual Dictionary with simple lookups): https://play.google.com/store/apps/details?id=jp.takoboto
-Akebi (Bilingual Dictionary with more features): https://play.google.com/store/apps/details?id=com.craxic.akebifree
-EBPocket Basic (EPWING Reader, load monolingual EPWINGs into this): https://play.google.com/store/apps/details?id=info.ebstudio.ebpocketfree
-EBPocket Professional APK: https://drive.google.com/file/d/1WAE2WRyCET_sOQ8Qze9tt2X-dEEdTuz1/view?usp=sharing
-Typhon Reader (ebook reader with one tap Rikai (like Yomichan) lookup feature, EPWING support.): https://play.google.com/store/apps/details?id=net.zorgblub.typhon&hl=ja
-OCR Manga Reader (EPWING support): https://sourceforge.net/projects/ocrmangareaderforandroid/
-Tachiyomi (Get the Japanese sources): https://tachiyomi.org/
-JP-Dictionary (adds iOS “Look Up” feature): https://github.com/kamui-7/JP-Dictionary
-Kaku (System-wide OCR): https://play.google.com/store/apps/details?id=ca.fuwafuwa.kaku
-Rikaichan for Android: https://github.com/ispedals/Rikachan-Android
-Tae Kim App: https://play.google.com/store/apps/details?id=com.alexisblaze.japanese_grammar&hl=en
-Google Japanese Input: https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese
-Reasily (ebook reader no special features, but supports vertical text (縦書き)): https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily
- 
-iOS
-AnkiMobile ($24.99): https://apps.apple.com/us/app/ankimobile-flashcards/id373493387
-Shirabe Jisho, the best mobile bilingual Japanese dictionary, Period.:https://apps.apple.com/us/app/shirabe-jisho/id1005203380
-Tae Kim App: https://apps.apple.com/us/app/learning-japanese-with-tae-kim/id1366698942
-Books (formerly iBooks), the best mobile ebook reader on any platform. Period. In case you uninstalled it: https://apps.apple.com/us/app/apple-books/id364709193
-Kantan Manga Reader (OCR Manga Reader like app): https://apps.apple.com/gb/app/kantan-manga/id1518666365
-EBPocket Basic (transfer EPWINGs using iTunes): https://apps.apple.com/us/app/ebpocket-basic/id314082593
-Browser Extensions
+****
+
+# Browser Extensions:
 Yomichan: https://foosoft.net/projects/yomichan/ 
-Android users can use this on Firefox.
+
 Clipboard Inserter: https://github.com/kmltml/clipboard-inserter
-Language Learning with Netflix (does anyone use this?): https://languagelearningwithnetflix.com/
-Not Japanese related but still a must:
-uBlock Origin - Best ad blocker.: https://github.com/gorhill/uBlock
-Universal Bypass - Skip annoying short links, be a more powerful pirate.: https://universal-bypass.org/install
-Downloading Tools
+
+Language Learning with Netflix: https://languagelearningwithnetflix.com
+
+Universal Bypass - Skip annoying short links: https://universal-bypass.org/install
+****
+
+## Downloading Tools:
 qBittorrent: https://www.qbittorrent.org/
+
 Jdownloader2 for direct downloading: https://jdownloader.org/jdownloader2
+
 Maxi-debrid.com - free debrid service, best with Katfile: https://maxi-debrid.com/
+
 Real Debrid - paid debrid service, best all around: https://real-debrid.com/
+
 youtube-dl - download YouTube videos, playlists, channels, etc.:https://ytdl-org.github.io/youtube-dl/index.html
+
 youtube-dlg - GUI for youtube-dl: https://mrs0m30n3.github.io/youtube-dl-gui/
+
 Hakuneko Manga Downloader: https://github.com/manga-download/hakuneko
-Private Trackers
-Info: https://en.wikipedia.org/wiki/BitTorrent_tracker##Private_trackers
-You can find hard to find things on private trackers.
-AvistaZ, for J-drama and such (I have 0 invites) 
-AnimeBytes, for anime, manga, VNs and such (ONLY close friends shall be invited)
-Jpopsuki, for Japanese music (I have 0 invites)
-Other Software
-7zip - Better than WinRAR: https://www.7-zip.org/
-WinCDEmu - Mount ISO/MDF/MDS files as a virtual drive on your computer: https://wincdemu.sysprogs.org/
-WinRAR - 7zip alternative: https://www.win-rar.com/
-DAEMON Tools - WinCDEmu alternative: https://www.daemon-tools.cc/
-VPNs (Japan location specific)
-Free
-(Windows) SoftEther: https://www.softether.org/5-download
-(Android) VPN Japan: https://play.google.com/store/apps/details?id=vpn.japan
-(iOS) Neko VPN: https://learnjapanese.link/vpnneko
-Paid
-I only recommend Private Internet Access.
-Private Internet Access: https://www.privateinternetaccess.com/
-Premium Cracks/Cheats/Accounts
-I usually find working premium VPN cheats/cracks over at TeamOS. https://teamos-hkrg.com/forums/web-tools.74/ | https://www.teamos-hkrg.com/forums/android-apps.62/ USE AN ADBLOCKER
-VPN Accounts Dump: https://leak.sx/dispenser_vpn.php
-You can search for “ExpressVPN crack apk” if you’re an Android user lmao.
-Condensed Audio
+
+## Free VPNs (Japan location specific):
+SoftEther (Windows): https://www.softether.org/5-download
+
+VPN Japan (Android): https://play.google.com/store/apps/details?id=vpn.japan
+
+Neko VPN (iOS): https://learnjapanese.link/vpnneko
+
+## Condensed Audio:
 Condensed Audio 1: https://drive.google.com/drive/folders/1fqsc--ybDjxLLdJeGIxmQ3s-o4f2TIz8
 Condensed Audio 2: https://www.mediafire.com/folder/ndeu7h9zjgf1l/MIA_Condensed_Audio
 Condensed Audio 3: https://mega.nz/##F!AKwUTQQZ!MyrhiMmNmhemOGrR40bkow
 Condensed Audio 4: https://condensedaudiocatalog.com/##
 Condensed Audio 5: https://www.paliss.com/
 Condense your own audio: https://ercanserteli.com/condenser/
-Mining
-AnimeCards - the definitive.: https://animecards.site/
-Audio cards on Mac lmao: https://sites.google.com/view/mac-audiocards
-Anime cards in under 10 seconds with MPV script: https://youtu.be/M4t7HYS73ZQ
-Guides/Methods/Motivation
+
+## Guides/Methods/Motivation:
+
 TheMoeWay: https://learnjapanese.moe/
+
+A Year To Learn Japanese: https://drive.google.com/drive/u/0/folders/1C50jtM2RDvShT2Q8kvbPKpwWJ5k_ymxN
+
 All Japanese All The Time: https://learnjapanese.link/ajatt
+
 Refold Languages: https://refold.la/
-AntiMoon: http://www.antimoon.com/
+
+AnimeCards: https://animecards.site/
+
 Itazuraneko Guide: https://itazuraneko.neocities.org/learn/guide.html
+
 DJT Guide: https://djtguide.neocities.org/guide.html
-(discontinued) Mass Immersion Approach: https://massimmersionapproach.com/
+
+Mass Immersion Approach (discontinued): https://massimmersionapproach.com/
+
 Matt vs. Japan playlist: https://youtube.com/playlist?list=PLT9cfjU1ykbNsGoT5BXNpXVT2fNbYPHXm
+
 “Other”
 Immersion Wiki - resources for immersion: http://immersion.wiki/
-Why You Still Don't Understand Your Target Language: https://youtu.be/_LIz-Wbt4us
-Dogen Japanese Phonetics: http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P
-Useful Anki add-ons for Japanese: https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html
 
--
-Mpv Sentence Mining Setup Guide: https://docs.google.com/document/d/1DR21nSG3prcxHe3kHlkvCscRoN-av3uYVc5rBIDTLWI/edit
+Why You Still Don't Understand Your Target Language: https://youtu.be/_LIz-Wbt4us
+
+Dogen Japanese Phonetics: http://www.youtube.com/playlist?list=PLeK-ilb1gk6md2oCbjPh4Rl0lnXXOV22P
+
+Useful Anki add-ons for Japanese: https://tatsumoto-ren.github.io/blog/useful-anki-add-ons-for-japanese.html
