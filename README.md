@@ -25,7 +25,7 @@
 ## Precious:
 It is _**extremely**_ important that you really take in what these videos are saying. If you do, they will change your life
 
-[Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug)
+[Stephen Krashen on Language Acquisition](https://youtu.be/NiTsduRreug) (audio is unfortuantely messed up)
 
 [Change your language learning mindset](https://www.youtube.com/watch?v=3Kzjn7kCAtU)
 
